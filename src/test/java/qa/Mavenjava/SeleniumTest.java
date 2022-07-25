@@ -8,6 +8,7 @@ public class SeleniumTest {
 	public void browserAutomation()
 	{
 		System.out.println("BrowserAutomation");
+		System.out.println("Changes made by lead dev");
 	}
 	@Test
 	public void elementsUi()
