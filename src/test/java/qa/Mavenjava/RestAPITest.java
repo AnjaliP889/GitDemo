@@ -11,6 +11,7 @@ public class RestAPITest {
 			System.out.println("PostJira2");
 			System.out.println("PostJira3");
 			System.out.println("PostJira4");
+			System.out.println("Feature 5 developed by Junior dev");
 		}
 		@Test
 		public void deleteTwitter()
